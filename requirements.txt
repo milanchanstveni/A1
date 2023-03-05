@@ -1,0 +1,14 @@
+uvicorn
+fastapi[all]
+aiopg
+aiomysql
+#ormar[all]
+aerich
+tortoise-orm[all]
+load_dotenv
+asyncpg
+aiodns
+aiohttp[speedups]
+httpx
+trio
+pytest
